@@ -1,0 +1,16 @@
+.block_style {
+  border-radius: 4px;
+  /* height: 20px;
+  width: 150px; */
+  /* background-color: aqua; */
+}
+
+.block_style li {
+  /* display: flex; */
+  margin-left: 17px;
+  list-style-type: none;
+}
+
+.block_style img {
+  margin-left: 9px;
+}
